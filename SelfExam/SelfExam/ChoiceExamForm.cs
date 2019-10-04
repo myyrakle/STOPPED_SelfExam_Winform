@@ -56,8 +56,8 @@ namespace SelfExam
             foreach (JObject obj in json_array)
             {
                 question_list.Add(new QuestionType(
-                    obj.GetValue("q").ToString().Replace("\n", Environment.NewLine), 
-                    obj.GetValue("a").ToString().Replace("\n", Environment.NewLine)
+                    obj.GetValue("q").ToString(), 
+                    obj.GetValue("a").ToString()
                 )) ;
             }
 

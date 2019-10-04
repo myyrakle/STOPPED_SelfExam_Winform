@@ -32,6 +32,7 @@ namespace SelfExam
 
         private List<QuestionType> question_list;
         private List<QuestionType>.Enumerator enumerator;
+        private uint current_position = 0;
         public void SetQuestionList(List<QuestionType> list)
         {
             question_list = list;
@@ -49,11 +50,19 @@ namespace SelfExam
             AnswerTextBox.Text = "";
             QuestionTextBox.Text = enumerator.Current.Question;
             state = State.ShowQuestion;
+
+            current_position++;
+            RenderCurrnetPageView();
         }
         private void RenderAnswer()
         {
             AnswerTextBox.Text = enumerator.Current.Answer;
             state = State.ShowAnswer;
+        }
+
+        private void RenderCurrnetPageView()
+        {
+            CurrentPageViewLabel.Text = $"{current_position}/{question_list.Count}";
         }
 
         enum State

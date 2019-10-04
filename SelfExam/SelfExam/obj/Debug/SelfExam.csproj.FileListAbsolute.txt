@@ -14,3 +14,4 @@ C:\Users\sssan\Codes\C#\SelfExam\SelfExam\bin\Debug\Newtonsoft.Json.xml
 C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Debug\SelfExam.csproj.CopyComplete
 C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Debug\SelfExam.TestExamForm.resources
 C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Debug\SelfExam.ChoiceExamForm.resources
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Debug\SelfExam.SettingForm.resources

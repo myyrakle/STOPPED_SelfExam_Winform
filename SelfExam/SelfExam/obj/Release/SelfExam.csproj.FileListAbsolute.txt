@@ -1,0 +1,17 @@
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\bin\Release\SelfExam.exe.config
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\bin\Release\SelfExam.exe
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\bin\Release\SelfExam.pdb
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\bin\Release\Newtonsoft.Json.dll
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\bin\Release\Newtonsoft.Json.xml
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Release\SelfExam.csprojAssemblyReference.cache
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Release\SelfExam.ChoiceExamForm.resources
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Release\SelfExam.CreateExamForm.resources
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Release\SelfExam.SelfExam.resources
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Release\SelfExam.Properties.Resources.resources
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Release\SelfExam.SettingForm.resources
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Release\SelfExam.TestExamForm.resources
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Release\SelfExam.csproj.GenerateResource.cache
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Release\SelfExam.csproj.CoreCompileInputs.cache
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Release\SelfExam.csproj.CopyComplete
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Release\SelfExam.exe
+C:\Users\sssan\Codes\C#\SelfExam\SelfExam\obj\Release\SelfExam.pdb

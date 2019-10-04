@@ -66,7 +66,7 @@ namespace SelfExam
             if (current_node == null)
                 return;
 
-            current_node.Value = new QuestionType(AnswerTextBox.Text, QuestionTextBox.Text);
+            current_node.Value = new QuestionType(QuestionTextBox.Text, AnswerTextBox.Text);
         }
 
         private void TogglePrevButton()

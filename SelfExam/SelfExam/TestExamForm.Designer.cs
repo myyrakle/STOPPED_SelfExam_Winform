@@ -34,6 +34,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.AnswerTextBox = new System.Windows.Forms.TextBox();
             this.PrevButton = new System.Windows.Forms.Button();
+            this.CurrentPageViewLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // QuestionTextBox
@@ -92,11 +93,22 @@
             this.PrevButton.UseVisualStyleBackColor = true;
             this.PrevButton.Click += new System.EventHandler(this.PrevButton_Click);
             // 
+            // CurrentPageViewLabel
+            // 
+            this.CurrentPageViewLabel.AutoSize = true;
+            this.CurrentPageViewLabel.Location = new System.Drawing.Point(250, 322);
+            this.CurrentPageViewLabel.Name = "CurrentPageViewLabel";
+            this.CurrentPageViewLabel.Size = new System.Drawing.Size(23, 12);
+            this.CurrentPageViewLabel.TabIndex = 15;
+            this.CurrentPageViewLabel.Text = "0/0";
+            this.CurrentPageViewLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // TestExamForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(534, 361);
+            this.Controls.Add(this.CurrentPageViewLabel);
             this.Controls.Add(this.PrevButton);
             this.Controls.Add(this.AnswerTextBox);
             this.Controls.Add(this.label2);
@@ -119,5 +131,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox AnswerTextBox;
         private System.Windows.Forms.Button PrevButton;
+        private System.Windows.Forms.Label CurrentPageViewLabel;
     }
 }
